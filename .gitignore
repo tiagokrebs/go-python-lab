@@ -1,2 +1,3 @@
 grpc/py/__pycache__
 grpc/py/venv
+cgo/__pycache__/
